@@ -1,0 +1,292 @@
+[
+  {
+    "index": 1,
+    "name": "A124",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/A124_CB.png"
+  },
+  {
+    "index": 2,
+    "name": "Alok",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Alok_CB.png"
+  },
+  {
+    "index": 3,
+    "name": "Alvaro",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Alvaro_CB.png"
+  },
+  {
+    "index": 4,
+    "name": "Alvaro Rageblast",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Alvaro_Rageblast_CB.png"
+  },
+  {
+    "index": 5,
+    "name": "Andrew",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Andrew_CB.png"
+  },
+  {
+    "index": 6,
+    "name": "Andrew The Fierce",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Andrew_The_Fierce_CB.png"
+  },
+  {
+    "index": 7,
+    "name": "Antonio",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Antonio_CB.png"
+  },
+  {
+    "index": 8,
+    "name": "Awakened Alok",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Awakened_Alok_CB.png"
+  },
+  {
+    "index": 9,
+    "name": "Caroline",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Caroline_CB.png"
+  },
+  {
+    "index": 10,
+    "name": "Chrono",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Chrono_CB.png"
+  },
+  {
+    "index": 11,
+    "name": "Clu",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Clu_CB.png"
+  },
+  {
+    "index": 12,
+    "name": "D-bee",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/D-bee_CB.png"
+  },
+  {
+    "index": 13,
+    "name": "Dasha",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Dasha_CB.png"
+  },
+  {
+    "index": 14,
+    "name": "Dimitri",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Dimitri_CB.png"
+  },
+  {
+    "index": 15,
+    "name": "Ford",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Ford_CB.png"
+  },
+  {
+    "index": 16,
+    "name": "Hayato",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Hayato_CB.png"
+  },
+  {
+    "index": 17,
+    "name": "Hayato Firebrand",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Hayato_Firebrand_CB.png"
+  },
+  {
+    "index": 18,
+    "name": "Homer",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Homer_CB.png"
+  },
+  {
+    "index": 19,
+    "name": "Ignis",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Ignis_CB.png"
+  },
+  {
+    "index": 20,
+    "name": "Iris",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Iris_CB.png"
+  },
+  {
+    "index": 21,
+    "name": "J Bibes",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/J.Bibes_CB.png"
+  },
+  {
+    "index": 22,
+    "name": "Jai",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Jai_CB.png"
+  },
+  {
+    "index": 23,
+    "name": "Joseph",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Joseph_CB.png"
+  },
+  {
+    "index": 24,
+    "name": "Jota",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Jota_CB.png"
+  },
+  {
+    "index": 25,
+    "name": "K",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/K_CB.png"
+  },
+  {
+    "index": 26,
+    "name": "Kapella",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Kapella_CB.png"
+  },
+  {
+    "index": 27,
+    "name": "Kelly",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Kelly_CB.png"
+  },
+  {
+    "index": 28,
+    "name": "Kelly The Swift",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Kelly_The_Swift_CB.png"
+  },
+  {
+    "index": 29,
+    "name": "Kenta",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Kenta_CB.png"
+  },
+  {
+    "index": 30,
+    "name": "Kla",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Kla_CB.png"
+  },
+  {
+    "index": 31,
+    "name": "Laura",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Laura_CB.png"
+  },
+  {
+    "index": 32,
+    "name": "Leon",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Leon_CB.png"
+  },
+  {
+    "index": 33,
+    "name": "Luna",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Luna_CB.png"
+  },
+  {
+    "index": 34,
+    "name": "Luqueta",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Luqueta_CB.png"
+  },
+  {
+    "index": 35,
+    "name": "Maro",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Maro_CB.png"
+  },
+  {
+    "index": 36,
+    "name": "Maxim",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Maxim_CB.png"
+  },
+  {
+    "index": 37,
+    "name": "Miguel",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Miguel_CB.png"
+  },
+  {
+    "index": 38,
+    "name": "Misha",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Misha_CB.png"
+  },
+  {
+    "index": 39,
+    "name": "Moco",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Moco_CB.png"
+  },
+  {
+    "index": 40,
+    "name": "Moco Enigma",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Moco_Enigma_CB.png"
+  },
+  {
+    "index": 41,
+    "name": "Nairi",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Nairi_CB.png"
+  },
+  {
+    "index": 42,
+    "name": "Nikita",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Nikita_CB.png"
+  },
+  {
+    "index": 43,
+    "name": "Notora",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Notora_CB.png"
+  },
+  {
+    "index": 44,
+    "name": "Olivia",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Olivia_CB.png"
+  },
+  {
+    "index": 45,
+    "name": "Rafael",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Rafael_CB.png"
+  },
+  {
+    "index": 46,
+    "name": "Ryden",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Ryden_CB.png"
+  },
+  {
+    "index": 47,
+    "name": "Santino",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Santino_CB.png"
+  },
+  {
+    "index": 48,
+    "name": "Shani",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Shani_CB.png"
+  },
+  {
+    "index": 49,
+    "name": "Shirou",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Shirou_CB.png"
+  },
+  {
+    "index": 50,
+    "name": "Skyler",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Skyler_CB.png"
+  },
+  {
+    "index": 51,
+    "name": "Sonia",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Sonia_CB.png"
+  },
+  {
+    "index": 52,
+    "name": "Steffie",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Steffie_CB.png"
+  },
+  {
+    "index": 53,
+    "name": "Suzy",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Suzy_CB.png"
+  },
+  {
+    "index": 54,
+    "name": "Tatsuya",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Tatsuya_CB.png"
+  },
+  {
+    "index": 55,
+    "name": "Thiva",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Thiva_CB.png"
+  },
+  {
+    "index": 56,
+    "name": "Wolfrahh",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Wolfrahh_CB.png"
+  },
+  {
+    "index": 57,
+    "name": "Wukong",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Wukong_CB.png"
+  },
+  {
+    "index": 58,
+    "name": "Xayne",
+    "gambar": "https://raw.githubusercontent.com/siputzx/karakter-freefire/refs/heads/main/files/Xayne_CB.png"
+  }
+]
